@@ -1,4 +1,3 @@
-import { signInWithGoogle } from '../../firebaseConfig';
 import React, { useState } from 'react';
 import { LogIn, X, User, Mail, Lock, UserCog, CheckCircle2, MessageSquare, Chrome, ChevronDown } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
